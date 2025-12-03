@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Сириус",
+    "constellation": "Большой Пес",
+    "is_visible": true,
+    "radius": 1.71
+  },
+  {
+    "id": 2,
+    "name": "Полярная",
+    "constellation": "Малая Медведица",
+    "is_visible": true,
+    "radius": 45
+  },
+  {
+    "id": 3,
+    "name": "Бетельгейзе",
+    "constellation": "Орион",
+    "is_visible": true,
+    "radius": 887
+  },
+  {
+    "id": 4,
+    "name": "Антарес",
+    "constellation": "Скорпион",
+    "is_visible": true,
+    "radius": 680
+  },
+  {
+    "id": 5,
+    "name": "Вега",
+    "constellation": "Лира",
+    "is_visible": true,
+    "radius": 2.78
+  }
+]
